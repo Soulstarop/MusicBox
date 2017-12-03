@@ -1,14 +1,14 @@
 # MusicBox
 Music plugin for Pocketmine Servers
 
-# HOW TO USE
- * Install it on your server
+# How to Install
+ * Install it on your server and restrt
  * Place some Noteblock
  
-# COMMANDS
+# Commands
  * /music <start|stop|next>
  
-# HOW TO MAKE SONG
+# How to add song
  * Convert your midi file into nbs file
  * ->  http://www.stuffbydavid.com/mcnbs
 
