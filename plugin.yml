@@ -1,0 +1,23 @@
+name: MusicBox
+main: MusicBox\MusicBox
+api: [3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13, 3.0.0-ALPHA14, 3.0.0-ALPHA15]
+version: 1.0
+author: FreakingDev
+description: Play music in your server
+
+
+commands:
+ music:
+  permission: MusicBox.music
+  description: Manage the music in your server
+  usage: /music <start|stop|next>
+
+permissions:
+ MusicBox:
+  default: op
+  description: MusicBox Commands
+  children:
+     MusicBox.music:
+      default: op
+      description: MusicBox Commands
+    
