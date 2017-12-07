@@ -4,6 +4,9 @@ Music plugin for Pocketmine Servers
 # Download Phar Here
  * [MusicBox.phar](https://drive.google.com/uc?export=download&id=1W1dm_3BQu7r2QKrLVE0NunLdSvd7swuA)
 
+# How does it work
+ * [Watch this](https://www.youtube.com/watch?v=JezbJmsnDz0)
+
 # How to Install
  * Install it on your server and restrt
  * Place some Noteblock
